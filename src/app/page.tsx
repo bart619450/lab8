@@ -2,7 +2,7 @@ import React from 'react';
 import TeaSet from '../zad1'; // Zakładając, że zad1.js znajduje się w src
 import TeaSetPop from'../zad1pop';
 import UserInteraction from '../zad2';
-import './Page.css';  // Importujemy zewnętrzny plik CSS
+import './page.css';  // Importujemy zewnętrzny plik CSS
 
 const Page = () => {
   return (
