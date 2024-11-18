@@ -1,2 +1,3 @@
 # lab8
-React lab 8
+Bartosz Maciejewski 20461
+
